@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Workspace\Published\BaseApi</_PublishTargetUrl>
+    <History>True|2021-06-01T19:24:55.1136227Z;True|2021-05-27T17:35:46.8326521-04:00;</History>
+  </PropertyGroup>
+</Project>
